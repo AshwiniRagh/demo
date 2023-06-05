@@ -1,0 +1,62 @@
+body{
+    background-image: url("23.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+.section1 {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    }
+    .a2 {
+        float: right;
+    }
+    .section2 {
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(190, 169, 71);
+        height: 40px;
+        width: 100%;
+    }
+    .a3 {
+        font-size: 30px;
+    }
+    .navigation {
+        font-size: 20px;
+        }
+      .section4 {        
+            position: relative;
+            background-color: rgb(5, 22, 16);
+            background-size: cover;
+            height: 70px;
+            width: 100%;
+            top: 350px;
+             }     
+        .sub-sec {
+            display: flex;
+            position: absolute;
+            bottom: 25px;
+            gap: 80px;
+        }
+        .a5 {
+            background-color:rgb(34, 26, 31) ;
+            text-align: center;
+            width: 23vw;
+            height: 27vh;
+            top: 200px;
+            margin-left: 80px;
+         }
+         .a6 {
+            background-color:rgb(0, 128, 43) ;
+            text-align: center;
+            width: 24vw;
+            height: 27vh;
+         }
+         .a7 {
+            background-color:rgb(119, 83, 83) ;
+            text-align: center;
+            width: 24vw;
+            height: 27vh;
+         }
+        
+    
