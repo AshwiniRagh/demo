@@ -1,0 +1,11 @@
+.companylogo {
+    height: 35px;
+    width:35px;
+    position: absolute;
+    top: 40px;
+}
+.companyname {
+    font-size: 35px;
+    position: relative;
+    padding-left: 50px;
+}
